@@ -1,0 +1,65 @@
+Bonjour ! Voici les règles
+et les astuces dont vous
+aurez besoin lorsque vous
+jouerez à ce jeu :
+
+Touches :
+- Déplacez vous avec les
+flèches directionnelles
+de votre clavier
+- Appuyez sur "entrée" pour
+revenir au menu à n'importe
+quel moment
+
+Concept du jeu :
+
+- Le concept de base est
+simple, c'est un jeu de
+labyrinthe classique où
+vous contrôlez un gilet
+jaune qui s'est fait
+prendre par des crs lors
+d'une manifestation et vous
+devez faire en sorte qu'il
+retrouve son"QG
+(représenté par un drapeau
+avec un feu de camp)
+à travers le labyrinthe
+des rues de Paris.
+
+- Faites vite mais attention !
+Si votre Gilet jaune rentre
+dans un immeuble,
+il tombera dans les pommes,
+les CRS le récupèreront et
+vous serez obligé(e) de le
+refaire s'évader.
+
+Subtilités des niveaux :
+
+- Dans certains niveaux vous
+remarquerez qu'il n'y a pas
+de passage possible pour
+arriver jusqu'au QG.
+    Vous devez savoir que
+certains Parisiens ont laissé
+leur porte ouverte.
+Notre Gilet Jaune peut alors passer
+dans le bâtiment afin de
+rejoindre son camp de base.
+
+- Dans les niveaux 4 et 5,
+vous trouverez des trappes,
+il s'agit en fait d'une entrée
+des catacombes. Notre
+Gilet Jaune pourra passer dedans
+et ainsi ressortir de l'autre
+côté !
+
+- Dans le niveau 5, notre
+Gilet Jaune rencontrera des
+patrouilles de CRS, si ceux-ci
+l'attrapent, ils le ramèneront
+à la case départ et vous
+devrez recommencer.
+
